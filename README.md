@@ -57,7 +57,7 @@ This repository is academic in nature and intended as part of coursework for the
 ### Author
 
 **Sibani Tiwari**  
-3nd Year B.Tech CSE (Data Science)  
+3rd Year B.Tech CSE (Data Science)  
 CR Rao AIMSCS, JNTU Hyderabad  
 
 ---
